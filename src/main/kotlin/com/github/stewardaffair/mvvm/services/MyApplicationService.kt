@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.stewardaffair.mvvm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.stewardaffair.mvvm.MyBundle
 
 class MyApplicationService {
 
